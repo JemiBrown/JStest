@@ -1,0 +1,2 @@
+# JStest
+first javascript test
